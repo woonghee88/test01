@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3> b.jsp 문서입니다. </h3>
+<h3> b.jsp 문서입니다. 수정본 </h3>
 </body>
 </html>
